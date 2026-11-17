@@ -27,6 +27,7 @@ Translations of the Publii app UI in different languages
 | [uk-UA :arrow_down:](downloads/0.39.0/uk-ua.zip)     | Ukrainian<br>:ukraine: Ukraine                    | 0.39.0    | :white_check_mark: | 1.0.0   | :white_check_mark: | [Andrew Notea](https://github.com/andrewnotea)                  |
 | [zh-CN :arrow_down:](downloads/0.47.5/zh-cn.zip)     | Chinese (Simplified)<br>:cn: China                | 0.47.5    | :white_check_mark: | 1.2.2  | :white_check_mark: | [Dyxang](https://github.com/dyxang), [Meteor](https://github.com/coolf233), [Kent Liao](https://github.com/liaocp666)                        |
 | [zh-TW :arrow_down:](downloads/0.46.1/zh-tw.zip)     | Chinese (Traditional)<br>:taiwan: Taiwan          | 0.46.1    | :white_check_mark: | 1.2.2   | :white_check_mark: | [Dyxang](https://github.com/dyxang)                             |
+| [ru :arrow_down:](downloads/0.48.1/ru.zip)           | Russian<br>:russian: Russia                       | 0.48.1    | :mag:              | 1.0.0  | :mag:               | [Aleksandr "Theliraan" Lazarev](https://github.com/theliraan) |
 
 Legend for status: :pencil2: - development, :white_check_mark: - production, :mag: - in review
 

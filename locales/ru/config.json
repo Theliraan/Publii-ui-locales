@@ -1,0 +1,8 @@
+{
+    "name": "Russian - default",
+    "version": "1.0.0",
+    "author": "Aleksandr Lazarev",
+    "publiiSupport": "0.48.1",
+    "momentLocale": "ru",
+    "wysiwygTranslation": true
+}
